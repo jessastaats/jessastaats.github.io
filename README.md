@@ -13,7 +13,7 @@ Experienced in hardware/software troubleshooting, system diagnostics, and remote
 -Google Cybersecurity Certification (In Progress)
 
 ### Work Experience
-Virtual Safety Companion (VSC) Relief Team Lead at Banyan Medical Solutions
+##Virtual Safety Companion (VSC) Relief Team Lead at Banyan Medical Solutions 
 
 Projects included:
 
@@ -31,7 +31,7 @@ progress for each team member.
 -Process Improvement: Analyzed team performance and implemented new techniques to enhance efficiency and boost morale among team members.
 
 
-IT & Client Support Representative 
+##IT & Client Support Representative   
 
 Projects included:
 
