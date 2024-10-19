@@ -1,15 +1,21 @@
 # My Journey in Tech
-Tech Support Specialist | IT Troubleshooting
+**IT Support Specialist | Transforming Challenges into Seamless Solutions**
 
 Experienced in hardware/software troubleshooting, system diagnostics, and remote desktop support across Windows, Linux, and macOS. Explore case studies and real-world examples of my work in tech support, along with continuous learning in cybersecurity and cloud technologies.
 
 ### Education
 * A.S. in Human Services
-* Comptia A+ Certified
-* Google IT Support Certified
+* ClimbHire IT Support Program
+* Google IT Support Course
 * Google Cybersecurity Certification (In Progress)
 
-### Work Experience
+  ### Certifications
+  * [CompTIA A+](https://www.credly.com/badges/05a82135-2848-4675-91f3-070a29a29fc5/linked_in_profile)
+  * [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/XL62LSJYE4OC)
+  * [Google Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/W5VVVG6DL4BV?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+    
+
+### Recent Work Experience
 **Virtual Safety Companion (VSC) Relief Team Lead at Banyan Medical Solutions** 
 
 Projects included:
