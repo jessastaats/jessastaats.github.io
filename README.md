@@ -33,7 +33,7 @@ Projects included:
 * **CRM Database Management:** Managed CRM tools, including Salesforce, to update customer databases and document technical solutions, ensuring accurate escalation to higher-level support when necessary.
 
 ### Projects
-[Linux Advanced Commands Project] (https://coursera.org/share/fe733c2c01fdd550713fa36e447bd0a1)
+Linux Advanced Commands Project (https://coursera.org/share/fe733c2c01fdd550713fa36e447bd0a1) 
 
 
 
