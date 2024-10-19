@@ -14,6 +14,7 @@ Experienced in hardware/software troubleshooting, system diagnostics, and remote
 
 ### Work Experience
 Virtual Safety Companion (VSC) Relief Team Lead at Banyan Medical Solutions
+
 Projects included:
 
 -Team Management: Led a team of 8+ Virtual Support Coordinators (VSCs), fostering a collaborative and productive work environment.
@@ -31,6 +32,8 @@ progress for each team member.
 
 
 IT & Client Support Representative 
+
+Projects included:
 
 -SaaS Support: Provided technical support for users navigating Intuit software, addressing issues related to installation, functionality, and user training.
 
