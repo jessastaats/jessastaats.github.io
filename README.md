@@ -45,5 +45,6 @@ Projects included:
 
 ### Projects
 Linux Advanced Commands Project
+
 Link: https://coursera.org/share/fe733c2c01fdd550713fa36e447bd0a1
 
