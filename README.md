@@ -1,4 +1,7 @@
-<img src='docs/assets/Black And Grey Professional Technology LinkedIn Banner.png' alt="banner"></img>
+<h1 align="center">
+ <img src="docs/assets/Black And Grey Professional Technology LinkedIn Banner.png" />
+</h1>
+
 
 # My Journey in Tech
 **IT Support Specialist | Transforming Challenges into Seamless Solutions**
