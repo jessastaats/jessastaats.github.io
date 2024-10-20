@@ -1,3 +1,5 @@
+<img src='docs/assets/Black And Grey Professional Technology LinkedIn Banner.png' alt="banner"></img>
+
 # My Journey in Tech
 **IT Support Specialist | Transforming Challenges into Seamless Solutions**
 
