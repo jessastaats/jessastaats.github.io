@@ -21,7 +21,24 @@ Experienced in hardware/software troubleshooting, system diagnostics, and remote
     
 
 ### Recent Work Experience
+
+**Data Center Technician at Google** 
+
+Nov 2024-Present
+
+Projects included:
+
+* **Equipment Maintenance & Repairs:** Performed routine maintenance and repairs on servers, machines, and other critical infrastructure, addressing technical issues with defined solutions and limited guidance to minimize downtime.
+* **Hardware Upgrades:** Worked as part of a team to upgrade servers and hardware components, improving system performance and reliability while minimizing operational disruption.
+* **Issue Resolution & Troubleshooting:** Analyzed and resolved routine technical issues related to equipment and infrastructure, following established procedures to troubleshoot and restore services efficiently.
+* **Data Security & Compliance:** Monitored data security protocols, tracking and verifying media to ensure proper data erasure and compliance with Google’s stringent security standards.
+* **Data Center Infrastructure Deployment & Maintenance:** Collaborated on the deployment and operation of new data center infrastructure, ensuring efficient integration and operation across projects.
+* **End-of-Life Equipment Management:** Assisted in the decommissioning and disassembly of obsolete equipment, including part replacements and proper disposal to maintain lifecycle management standards.
+  
+
 **Virtual Safety Companion (VSC) Relief Team Lead at Banyan Medical Solutions** 
+
+Oct 2022-April 2024
 
 Projects included:
 
@@ -35,6 +52,8 @@ progress for each team member.
 
 
 **IT & Client Support Representative as a Freelancer**   
+
+Jan 2022-Jun 2023
 
 Projects included:
 
