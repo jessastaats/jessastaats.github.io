@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="docs/assets/Black And Grey Professional Technology LinkedIn Banner.png" width="75%"/>
+ <img src="docs/assets/Black And Grey Professional Technology LinkedIn Banner.png" width="100%"/>
 </h1>
 
 
