@@ -11,13 +11,13 @@ Experienced in hardware/software troubleshooting, system diagnostics, and remote
 ### Education
 * A.S. in Human Services
 * ClimbHire IT Support Program
-* Google IT Support Course
-* Google Cybersecurity Certification (In Progress)
+* Google IT Support Certification
+* Google Cybersecurity Certification 
 
 ### Certifications
   * [CompTIA A+](https://www.credly.com/badges/05a82135-2848-4675-91f3-070a29a29fc5/linked_in_profile)
   * [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/XL62LSJYE4OC)
-  * [Google Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/W5VVVG6DL4BV?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+  * [Google Cybersecurity](https://coursera.org/share/0f940cefc8cda8500e0dd92ddb095d33)
     
 
 ### Recent Work Experience
